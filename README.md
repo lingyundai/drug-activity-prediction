@@ -1,3 +1,3 @@
 # drug-activity-prediction
 
-Detailed description and analysis can be found in the pdf file in this repo.
+Implementation and analysis details can be found in the pdf file in this repo.
